@@ -1,4 +1,4 @@
-package arrayDemo;
+package collectionFramework;
 
 import java.util.HashSet;
 import java.util.Set;
